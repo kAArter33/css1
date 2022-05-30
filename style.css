@@ -4,18 +4,19 @@ div {
     background-color: #808080;
     width:300px;
     height:750px;
-}
+    }
 
 h1 {
     color: white;
-}
 
+    }
 
-.jeden {
+    
+.jeden  {
 height: 150px;
 width: 150px;
 background-color: #fea500;
 margin-left: 20px;
 margin-bottom: 10px;
 margin-top: 10px;
-}
+    }
